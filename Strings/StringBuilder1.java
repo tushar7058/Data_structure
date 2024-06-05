@@ -47,5 +47,6 @@ public class StringBuilder1 {
             str.setCharAt(back, frontchar);
         }
         System.out.println("reverse string is:"+str);
+        System.out.println("Hello world");
     }
 }
