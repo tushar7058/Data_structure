@@ -1,4 +1,4 @@
-//package Sorting;
+package Sorting;
 
 public class selection {
     public static void printaArray(int arr[]) {
