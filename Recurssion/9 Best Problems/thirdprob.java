@@ -20,7 +20,6 @@ public class thirdprob {
         }
         FindOccurance(str, idx+1, element);
     }
-
     public static void main(String[] args) {
         String str = "abaacdac";
         FindOccurance(str, 0, 'a');
