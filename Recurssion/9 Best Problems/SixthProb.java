@@ -7,7 +7,7 @@ public class SixthProb {
             return;
         }
         char Currchar = str.charAt(idx);
-        if (map[Currchar-'a']==true) { // map fun used to check currchar 
+        if (map[Currchar-'a']==true) { // map fun used to check currchar k
             removeduplicates(str, idx+1, newsString);
         }else{
             newsString+=Currchar;
