@@ -12,7 +12,7 @@ public class seventhProb {
          subsequences(str, index+1, NewStirng);
     }
     public static void main(String[] args) {
-        String str = "abc";
+        String str = "aaa";
         subsequences(str, 0, "");
     }
 }
