@@ -20,3 +20,14 @@ public class ProbTwo {
         System.out.println(totalpaths );
     }
 }
+
+
+
+
+
+
+
+
+
+
+
