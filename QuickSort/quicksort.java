@@ -1,4 +1,4 @@
- package QuickSort;
+  package QuickSort;
 
 public class quicksort {
     public static int partition(int arr[], int low, int high) {
